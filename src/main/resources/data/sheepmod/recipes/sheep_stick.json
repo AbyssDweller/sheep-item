@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sheep_spawn_egg"
+    }
+  ],
+  "result": {
+    "item": "sheepmod:sheep_stick",
+    "count": 1
+  }
+}
